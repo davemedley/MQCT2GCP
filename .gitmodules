@@ -1,0 +1,3 @@
+[submodule "mq-google-adapter"]
+	path = mq-google-adapter
+	url = https://github.com/davemedley/mq-google-adapter.git
